@@ -1,0 +1,702 @@
+[
+  {
+    "modelo": "718 Cayman",
+    "ano": 2022,
+    "estado": "MA",
+    "pagamento": "Credit Card",
+    "valor": 79500.0
+  },
+  {
+    "modelo": "911 Turbo S",
+    "ano": 2024,
+    "estado": "WA",
+    "pagamento": "Wire Transfer",
+    "valor": 235000.0
+  },
+  {
+    "modelo": "Cayenne Coupe",
+    "ano": 2023,
+    "estado": "TX",
+    "pagamento": "Financing",
+    "valor": 112750.0
+  },
+  {
+    "modelo": "Macan S",
+    "ano": 2021,
+    "estado": "CO",
+    "pagamento": "Cash",
+    "valor": 68900.0
+  },
+  {
+    "modelo": "Taycan 4S",
+    "ano": 2024,
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "valor": 121000.0
+  },
+  {
+    "modelo": "Panamera 4",
+    "ano": 2023,
+    "estado": "FL",
+    "pagamento": "Credit Card",
+    "valor": 104500.0
+  },
+  {
+    "modelo": "911 Carrera S",
+    "ano": 2020,
+    "estado": "NY",
+    "pagamento": "Lease",
+    "valor": 96300.0
+  },
+  {
+    "modelo": "Cayenne E-Hybrid",
+    "ano": 2022,
+    "estado": "CA",
+    "pagamento": "Wire Transfer",
+    "valor": 89750.0
+  },
+  {
+    "modelo": "718 Boxster",
+    "ano": 2021,
+    "estado": "IL",
+    "pagamento": "Debit Card",
+    "valor": 73500.0
+  },
+  {
+    "modelo": "Macan GTS",
+    "ano": 2024,
+    "estado": "AZ",
+    "pagamento": "Financing",
+    "valor": 95000.0
+  },
+  {
+    "modelo": "Taycan Turbo",
+    "ano": 2023,
+    "estado": "TX",
+    "pagamento": "ACH Payment",
+    "valor": 153200.5
+  },
+  {
+    "modelo": "911 GT3",
+    "ano": 2024,
+    "estado": "NV",
+    "pagamento": "Wire Transfer",
+    "valor": 241000.0
+  },
+  {
+    "modelo": "Panamera Turbo S",
+    "ano": 2022,
+    "estado": "CA",
+    "pagamento": "Cash",
+    "valor": 132000.0
+  },
+  {
+    "modelo": "Cayenne Turbo GT",
+    "ano": 2024,
+    "estado": "TX",
+    "pagamento": "Crypto Payment",
+    "valor": 188000.0
+  },
+  {
+    "modelo": "911 Carrera Cabriolet",
+    "ano": 2023,
+    "estado": "GA",
+    "pagamento": "Credit Card",
+    "valor": 127800.0
+  },
+  {
+    "modelo": "Macan",
+    "ano": 2021,
+    "estado": "FL",
+    "pagamento": "Bank Transfer",
+    "valor": 58900.0
+  },
+  {
+    "modelo": "718 Spyder RS",
+    "ano": 2024,
+    "estado": "OR",
+    "pagamento": "Financing",
+    "valor": 164000.0
+  },
+  {
+    "modelo": "Taycan Cross Turismo",
+    "ano": 2023,
+    "estado": "NC",
+    "pagamento": "Wire Transfer",
+    "valor": 118500.0
+  },
+  {
+    "modelo": "Cayenne S",
+    "ano": 2022,
+    "estado": "TN",
+    "pagamento": "Credit Card",
+    "valor": 91300.0
+  },
+  {
+    "modelo": "911 Targa 4S",
+    "ano": 2024,
+    "estado": "MN",
+    "pagamento": "Lease",
+    "valor": 158750.0
+  },
+  {
+    "modelo": "Panamera",
+    "ano": 2020,
+    "estado": "PA",
+    "pagamento": "Bank Transfer",
+    "valor": 72000.0
+  },
+  {
+    "modelo": "Macan Electric",
+    "ano": 2025,
+    "estado": "TX",
+    "pagamento": "Wire Transfer",
+    "valor": 86500.0
+  },
+  {
+    "modelo": "911 Dakar",
+    "ano": 2024,
+    "estado": "UT",
+    "pagamento": "Cash",
+    "valor": 270000.0
+  },
+  {
+    "modelo": "Taycan GTS",
+    "ano": 2023,
+    "estado": "NC",
+    "pagamento": "Financing",
+    "valor": 139000.0
+  },
+  {
+    "modelo": "Cayenne",
+    "ano": 2021,
+    "estado": "MI",
+    "pagamento": "Credit Card",
+    "valor": 76800.0
+  },
+  {
+    "modelo": "718 Cayman GT4 RS",
+    "ano": 2024,
+    "estado": "OH",
+    "pagamento": "Wire Transfer",
+    "valor": 173600.0
+  },
+  {
+    "modelo": "911 Carrera GTS",
+    "ano": 2022,
+    "estado": "IN",
+    "pagamento": "Cash",
+    "valor": 119900.0
+  },
+  {
+    "modelo": "Panamera 4 E-Hybrid",
+    "ano": 2023,
+    "estado": "TX",
+    "pagamento": "Lease",
+    "valor": 109250.0
+  },
+  {
+    "modelo": "Macan T",
+    "ano": 2022,
+    "estado": "FL",
+    "pagamento": "Wire Transfer",
+    "valor": 82000.0
+  },
+  {
+    "modelo": "Taycan Turbo S",
+    "ano": 2025,
+    "estado": "CA",
+    "pagamento": "Crypto Payment",
+    "valor": 214000.0
+  },
+  {
+    "modelo": "911 Carrera",
+    "ano": 2024,
+    "estado": "FL",
+    "pagamento": "Credit Card",
+    "valor": 124500.0
+  },
+  {
+    "modelo": "Cayenne S",
+    "ano": 2023,
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "valor": 98200.0
+  },
+  {
+    "modelo": "Macan",
+    "ano": 2022,
+    "estado": "OH",
+    "pagamento": "Financing",
+    "valor": 67500.0
+  },
+  {
+    "modelo": "Taycan",
+    "ano": 2025,
+    "estado": "WI",
+    "pagamento": "Wire Transfer",
+    "valor": 116900.0
+  },
+  {
+    "modelo": "Panamera 4S",
+    "ano": 2024,
+    "estado": "MO",
+    "pagamento": "Cash",
+    "valor": 112000.0
+  },
+  {
+    "modelo": "718 Boxster",
+    "ano": 2021,
+    "estado": "NE",
+    "pagamento": "Debit Card",
+    "valor": 74000.0
+  },
+  {
+    "modelo": "911 Turbo",
+    "ano": 2024,
+    "estado": "NM",
+    "pagamento": "Wire Transfer",
+    "valor": 198300.0
+  },
+  {
+    "modelo": "Cayenne Coupe",
+    "ano": 2023,
+    "estado": "AZ",
+    "pagamento": "Wire Transfer",
+    "valor": 103750.0
+  },
+  {
+    "modelo": "Macan GTS",
+    "ano": 2024,
+    "estado": "CA",
+    "pagamento": "Financing",
+    "valor": 93600.0
+  },
+  {
+    "modelo": "Taycan 4S",
+    "ano": 2025,
+    "estado": "VA",
+    "pagamento": "ACH Payment",
+    "valor": 129000.0
+  },
+  {
+    "modelo": "Panamera Turbo",
+    "ano": 2022,
+    "estado": "CO",
+    "pagamento": "Credit Card",
+    "valor": 136000.0
+  },
+  {
+    "modelo": "911 GT3 RS",
+    "ano": 2024,
+    "estado": "TX",
+    "pagamento": "Wire Transfer",
+    "valor": 286500.0
+  },
+  {
+    "modelo": "Cayenne E-Hybrid",
+    "ano": 2023,
+    "estado": "CA",
+    "pagamento": "Lease",
+    "valor": 92800.0
+  },
+  {
+    "modelo": "Macan T",
+    "ano": 2022,
+    "estado": "AZ",
+    "pagamento": "Cash",
+    "valor": 72400.0
+  },
+  {
+    "modelo": "Taycan Turbo",
+    "ano": 2025,
+    "estado": "GA",
+    "pagamento": "Crypto Payment",
+    "valor": 158500.0
+  },
+  {
+    "modelo": "718 Cayman",
+    "ano": 2021,
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "valor": 69900.0
+  },
+  {
+    "modelo": "911 Targa 4",
+    "ano": 2024,
+    "estado": "CA",
+    "pagamento": "Financing",
+    "valor": 141250.0
+  },
+  {
+    "modelo": "Panamera",
+    "ano": 2020,
+    "estado": "OK",
+    "pagamento": "Wire Transfer",
+    "valor": 71500.0
+  },
+  {
+    "modelo": "Cayenne Turbo",
+    "ano": 2023,
+    "estado": "KS",
+    "pagamento": "Credit Card",
+    "valor": 146800.0
+  },
+  {
+    "modelo": "Macan Electric",
+    "ano": 2025,
+    "estado": "LA",
+    "pagamento": "Lease",
+    "valor": 89700.0
+  },
+  {
+    "modelo": "911 Carrera S",
+    "ano": 2022,
+    "estado": "HI",
+    "pagamento": "Bank Transfer",
+    "valor": 104600.0
+  },
+  {
+    "modelo": "Taycan GTS",
+    "ano": 2024,
+    "estado": "CA",
+    "pagamento": "Wire Transfer",
+    "valor": 142000.0
+  },
+  {
+    "modelo": "Cayenne",
+    "ano": 2021,
+    "estado": "NV",
+    "pagamento": "Cash",
+    "valor": 78400.0
+  },
+  {
+    "modelo": "718 Spyder RS",
+    "ano": 2025,
+    "estado": "KY",
+    "pagamento": "Financing",
+    "valor": 169000.0
+  },
+  {
+    "modelo": "911 Dakar",
+    "ano": 2024,
+    "estado": "CA",
+    "pagamento": "Credit Card",
+    "valor": 268900.0
+  },
+  {
+    "modelo": "Panamera 4",
+    "ano": 2023,
+    "estado": "TX",
+    "pagamento": "Wire Transfer",
+    "valor": 101300.0
+  },
+  {
+    "modelo": "Macan S",
+    "ano": 2021,
+    "estado": "MO",
+    "pagamento": "Cash",
+    "valor": 66750.0
+  },
+  {
+    "modelo": "Taycan Cross Turismo",
+    "ano": 2024,
+    "estado": "PA",
+    "pagamento": "Lease",
+    "valor": 127900.0
+  },
+  {
+    "modelo": "Cayenne Turbo GT",
+    "ano": 2025,
+    "estado": "OH",
+    "pagamento": "Wire Transfer",
+    "valor": 200000.0
+  },
+  {
+    "modelo": "911 Carrera Cabriolet",
+    "ano": 2023,
+    "estado": "AK",
+    "pagamento": "Crypto Payment",
+    "valor": 132000.0
+  },
+  {
+    "modelo": "718 Cayman GT4 RS",
+    "ano": 2024,
+    "estado": "TX",
+    "pagamento": "Credit Card",
+    "valor": 176400.0
+  },
+  {
+    "modelo": "Panamera 4 E-Hybrid",
+    "ano": 2022,
+    "estado": "NJ",
+    "pagamento": "Bank Transfer",
+    "valor": 108500.0
+  },
+  {
+    "modelo": "Macan",
+    "ano": 2021,
+    "estado": "NC",
+    "pagamento": "Financing",
+    "valor": 59000.0
+  },
+  {
+    "modelo": "Taycan Turbo S",
+    "ano": 2025,
+    "estado": "NE",
+    "pagamento": "Wire Transfer",
+    "valor": 218000.0
+  },
+  {
+    "modelo": "Cayenne S",
+    "ano": 2024,
+    "estado": "NJ",
+    "pagamento": "Debit Card",
+    "valor": 99950.0
+  },
+  {
+    "modelo": "911 Carrera GTS",
+    "ano": 2024,
+    "estado": "AZ",
+    "pagamento": "Credit Card",
+    "valor": 121750.0
+  },
+  {
+    "modelo": "718 Boxster GTS",
+    "ano": 2023,
+    "estado": "NV",
+    "pagamento": "Lease",
+    "valor": 91500.0
+  },
+  {
+    "modelo": "Panamera Turbo S",
+    "ano": 2022,
+    "estado": "NY",
+    "pagamento": "Wire Transfer",
+    "valor": 134000.0
+  },
+  {
+    "modelo": "Macan GTS",
+    "ano": 2024,
+    "estado": "NC",
+    "pagamento": "ACH Payment",
+    "valor": 96800.0
+  },
+  {
+    "modelo": "Taycan 4S",
+    "ano": 2025,
+    "estado": "TX",
+    "pagamento": "Wire Transfer",
+    "valor": 131600.0
+  },
+  {
+    "modelo": "Cayenne E-Hybrid",
+    "ano": 2023,
+    "estado": "WI",
+    "pagamento": "Cash",
+    "valor": 94300.0
+  },
+  {
+    "modelo": "911 Turbo S",
+    "ano": 2025,
+    "estado": "TX",
+    "pagamento": "Crypto Payment",
+    "valor": 242000.0
+  },
+  {
+    "modelo": "718 Cayman S",
+    "ano": 2022,
+    "estado": "OH",
+    "pagamento": "Credit Card",
+    "valor": 82750.0
+  },
+  {
+    "modelo": "Macan Electric",
+    "ano": 2026,
+    "estado": "CA",
+    "pagamento": "Wire Transfer",
+    "valor": 91300.0
+  },
+  {
+    "modelo": "Panamera",
+    "ano": 2021,
+    "estado": "TX",
+    "pagamento": "Financing",
+    "valor": 79900.0
+  },
+  {
+    "modelo": "Cayenne Coupe",
+    "ano": 2024,
+    "estado": "TX",
+    "pagamento": "Bank Transfer",
+    "valor": 111000.0
+  },
+  {
+    "modelo": "911 Targa 4S",
+    "ano": 2023,
+    "estado": "VA",
+    "pagamento": "Cash",
+    "valor": 156500.0
+  },
+  {
+    "modelo": "Taycan",
+    "ano": 2025,
+    "estado": "AZ",
+    "pagamento": "Lease",
+    "valor": 119900.0
+  },
+  {
+    "modelo": "Macan T",
+    "ano": 2022,
+    "estado": "VA",
+    "pagamento": "Wire Transfer",
+    "valor": 73200.0
+  },
+  {
+    "modelo": "911 GT3",
+    "ano": 2024,
+    "estado": "ID",
+    "pagamento": "Wire Transfer",
+    "valor": 224000.0
+  },
+  {
+    "modelo": "911 Carrera",
+    "ano": 2024,
+    "estado": "FL",
+    "pagamento": "Credit Card",
+    "valor": 126900.0
+  },
+  {
+    "modelo": "Cayenne",
+    "ano": 2023,
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "valor": 84500.0
+  },
+  {
+    "modelo": "Macan S",
+    "ano": 2022,
+    "estado": "FL",
+    "pagamento": "Financing",
+    "valor": 69800.0
+  },
+  {
+    "modelo": "Taycan 4S",
+    "ano": 2025,
+    "estado": "CO",
+    "pagamento": "Wire Transfer",
+    "valor": 132700.0
+  },
+  {
+    "modelo": "Panamera",
+    "ano": 2021,
+    "estado": "TX",
+    "pagamento": "Cash",
+    "valor": 81000.0
+  },
+  {
+    "modelo": "718 Cayman",
+    "ano": 2023,
+    "estado": "WA",
+    "pagamento": "Debit Card",
+    "valor": 78900.0
+  },
+  {
+    "modelo": "911 Turbo S",
+    "ano": 2026,
+    "estado": "MA",
+    "pagamento": "Wire Transfer",
+    "valor": 249300.0
+  },
+  {
+    "modelo": "Cayenne Coupe",
+    "ano": 2024,
+    "estado": "AZ",
+    "pagamento": "Wire Transfer",
+    "valor": 108750.0
+  },
+  {
+    "modelo": "Macan Electric",
+    "ano": 2026,
+    "estado": "IL",
+    "pagamento": "Financing",
+    "valor": 92600.0
+  },
+  {
+    "modelo": "Taycan Turbo",
+    "ano": 2025,
+    "estado": "TX",
+    "pagamento": "ACH Payment",
+    "valor": 164000.0
+  },
+  {
+    "modelo": "Panamera 4S",
+    "ano": 2024,
+    "estado": "CA",
+    "pagamento": "Credit Card",
+    "valor": 119000.0
+  },
+  {
+    "modelo": "911 GT3",
+    "ano": 2026,
+    "estado": "NV",
+    "pagamento": "Wire Transfer",
+    "valor": 232500.0
+  },
+  {
+    "modelo": "Cayenne E-Hybrid",
+    "ano": 2023,
+    "estado": "NC",
+    "pagamento": "Lease",
+    "valor": 96800.0
+  },
+  {
+    "modelo": "Macan T",
+    "ano": 2022,
+    "estado": "AZ",
+    "pagamento": "Cash",
+    "valor": 74400.0
+  },
+  {
+    "modelo": "Taycan GTS",
+    "ano": 2025,
+    "estado": "GA",
+    "pagamento": "Crypto Payment",
+    "valor": 148500.0
+  },
+  {
+    "modelo": "718 Boxster",
+    "ano": 2021,
+    "estado": "CA",
+    "pagamento": "Bank Transfer",
+    "valor": 71900.0
+  },
+  {
+    "modelo": "911 Targa 4",
+    "ano": 2024,
+    "estado": "CA",
+    "pagamento": "Financing",
+    "valor": 143250.0
+  },
+  {
+    "modelo": "Panamera Turbo",
+    "ano": 2020,
+    "estado": "OK",
+    "pagamento": "Wire Transfer",
+    "valor": 137500.0
+  },
+  {
+    "modelo": "Cayenne Turbo GT",
+    "ano": 2025,
+    "estado": "KS",
+    "pagamento": "Credit Card",
+    "valor": 204800.0
+  },
+  {
+    "modelo": "911 Dakar",
+    "ano": 2024,
+    "estado": "LA",
+    "pagamento": "Lease",
+    "valor": 271700.0
+  }
+]
